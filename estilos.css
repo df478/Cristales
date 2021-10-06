@@ -1,0 +1,31 @@
+		body{
+			background-image: url("tapiz1.jpg");
+			color: #6EFDF2;
+			text-align: center;
+			font-size: 20px;
+			font-family: times new roman;
+		}
+		header{
+			background-color: #042285;
+			border: 5px outset #000007;
+			font-style: italic;
+		}
+		a:visited{
+			color:yellowgreen ;
+		}
+		nav{
+			text-align: left;
+		}
+		p{
+			text-align: justify;
+			padding: 40px;
+			background-color: #143D9C;
+		}
+		h2{
+			background-color: #15973B;
+			padding: 40px;
+		}
+		h3{
+			background-color: #188BC9;
+			padding: 20px;
+		}
